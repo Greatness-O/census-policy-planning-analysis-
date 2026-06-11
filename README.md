@@ -56,7 +56,7 @@ census-policy-planning-analysis/
 │   └── processed/
 │       └── cleaned_census.csv
 │
-├── notebooks/
+├── notebook/
 │   └── census-policy-planning-analysis.ipynb
 │
 ├── outputs/
