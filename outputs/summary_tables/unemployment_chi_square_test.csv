@@ -1,0 +1,2 @@
+test,hypothesis,chi2_statistic,degrees_of_freedom,p_value,interpretation
+Chi-square test of independence,Unemployment status is independent of age group among working-age residents,88.6005,5,0.0,Reject independence; unemployment differs by age group

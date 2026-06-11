@@ -1,0 +1,6 @@
+option,score,evidence_for,evidence_against,main_metric
+Train station,0.942,High commuter proxy and confirmed university-student commuting pressure,No direct journey-to-work or traffic-volume field,Commuter proxy share: 25.1%; university student share: 6.4%
+Low-density housing,0.787,Professional occupation proxy and larger households may support family housing,"Income, property values and affordability are unavailable",Professional proxy share: 21.1%; large household share: 17.6%
+High-density housing,0.663,Large households and younger population imply potential housing pressure,No historical population growth or waiting-list data,Large household share: 17.6%; under-19 share: 25.9%
+Religious building,0.55,Largest recorded non-Catholic group: Christian,More than half of residents did not state a religion; no worship-capacity or unmet-demand data is available,Christian share of total population: 22.9%; religion not stated: 57.1%
+Emergency medical building,0.428,"Older residents, infirmity records and young-child population create medical demand","No hospital admissions, GP waiting-time or accident data",Recorded infirmity: 0.7%; 65+: 10.1%; under-5: 5.9%

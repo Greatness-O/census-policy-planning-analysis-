@@ -1,0 +1,8 @@
+issue,action,rationale
+Column names not analysis-friendly,Standardised all columns to snake_case,Improves readability and makes downstream code easier to maintain
+Age stored as non-numeric / potentially invalid,"Converted age to numeric, flagged invalid ages, imputed with occupation-gender median fallback","Age is central to population, schooling, workforce and old-age care analysis"
+Blank or missing personal names,Flagged missing values and filled with 'Unknown',Avoids fabricating personal identifiers while preserving row-level completeness
+Missing religion,Filled as 'Not stated' and retained a missingness flag,Religion should not be inferred or imputed without evidence
+Missing infirmity,Filled as 'None recorded' and retained a missingness flag,Reflects census-style non-response while preserving medical analysis
+No household identifier,Created household_id from house number and street,Enables occupancy and household structure analysis
+No direct commuter field,Created commuter proxy using university student status and selected occupation keywords,The project brief states university students commute because the town has no university

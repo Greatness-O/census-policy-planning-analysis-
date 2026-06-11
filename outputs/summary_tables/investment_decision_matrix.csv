@@ -1,0 +1,5 @@
+option,score,evidence_for,evidence_against,main_metric
+Employment and training,0.882,Working-age unemployment creates direct need for skills and retraining,Occupation data does not show duration of unemployment or skills gaps,Working-age unemployment rate: 8.8%
+Increase spending for schooling,0.849,School-age and under-five population indicate current and near-future schooling demand,"No school capacity, class-size or catchment-area data",School-age share: 20.1%; under-5 share: 5.9%
+General infrastructure,0.778,"Commuting, larger households and younger residents imply pressure on roads and services",No historical service-capacity or maintenance-cost data,Commuter share: 25.1%; large households: 17.6%; under-19: 25.9%
+Old age care,0.455,65+ and 80+ shares indicate future care demand,No direct care-needs assessment or mortality history,65+ share: 10.1%; 80+ share: 2.7%

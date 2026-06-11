@@ -1,0 +1,12 @@
+column,dtype,non_null,missing,missing_pct,blank_strings,unique_values
+House Number,int64,8485,0,0.0,0,187
+Street,object,8485,0,0.0,0,104
+First Name,object,8485,0,0.0,1,368
+Surname,object,8485,0,0.0,0,641
+Age,object,8485,0,0.0,1,110
+Relationship to Head of House,object,7836,649,7.65,1,19
+Marital Status,object,6420,2065,24.34,0,8
+Gender,object,8485,0,0.0,0,8
+Occupation,object,8485,0,0.0,1,1076
+Infirmity,object,71,8414,99.16,9,7
+Religion,object,3638,4847,57.12,0,13
