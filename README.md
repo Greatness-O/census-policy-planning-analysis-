@@ -1,5 +1,9 @@
 # Census-Based Policy Planning Analysis
 
+## Live Dashboard
+
+View the interactive dashboard here: [Census Policy Planning Dashboard](https://census-policy-planning-analysis.streamlit.app/)
+
 ## Overview
 
 This project uses a mock census dataset for an imaginary UK town to support local government decision-making. The dataset contains demographic and household information such as age, gender, marital status, occupation, religion, infirmity, household relationships, and address details.
